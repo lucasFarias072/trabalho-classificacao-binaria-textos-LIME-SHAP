@@ -1,0 +1,18 @@
+
+
+1. Por que o pré-processamento textual é importante para o desempenho do modelo?
+2. Qual a diferença fundamental entre BOW e TF-IDF? Dê um exemplo simples.
+3. Em que situações TF-IDF tende a ser mais vantajoso do que BOW?
+4. O que é um vetor esparso e por que isso é comum em problemas de PLN?
+5. Por que modelos lineares podem funcionar bem em textos com alta dimensionalidade?
+6. Quais são as principais diferenças entre um pipeline de classificação com dados tabulares e um de textos?
+7. O que significa interpretabilidade/explicabilidade de um modelo?
+8. Qual a diferença entre explicação local e explicação global?
+9. Por que precisamos de LIME e SHAP mesmo usando modelos lineares?
+10. Como o LIME gera explicações locais? Qual o papel das perturbações da instância?
+11. Como o SHAP calcula a importância das palavras? Qual é a ideia básica por trás dos valores de Shapley?
+12. Como interpretar um summary plot do SHAP em um problema de texto?
+13. Em que situações as explicações do LIME e do SHAP concordaram no experimento de vocês?
+14. Em que situações elas discordaram? Qual hipótese vocês têm para essa diferença?
+15. Houve alguma palavra considerada importante pelo modelo que parecia não fazer sentido para vocês? O que isso pode indicar?
+16. Como vocês construíram uma explicação global a partir de um método local como o LIME?
